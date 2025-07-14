@@ -1,2 +1,0 @@
-# Benchmarking-Starter-Code
-This is the starter code for grasping and transferring objects from source bin to the bins on conveyor belt. The code contains a stochastic movement strategy for the fingers given any pre-grasp pose. Users are welcome to implment your own control algorithms. The software version we are using is Coppelia Simulation Version 4.4.0.
